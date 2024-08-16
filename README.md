@@ -13,7 +13,7 @@ Hello there! 👋 Welcome to my collection of Python programs. This repository i
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/VarunSharma189/Python-Programmes
+   https://github.com/VarunSharma189/Python-Programmes
    ```
 
 2. **Navigate to the Directory**:
