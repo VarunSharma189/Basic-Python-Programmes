@@ -13,7 +13,7 @@ Hello there! 👋 Welcome to my collection of Python programs. This repository i
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/VarunSharma189/Python-Programmes
    ```
 
 2. **Navigate to the Directory**:
@@ -34,8 +34,8 @@ If you have any suggestions, improvements, or new ideas, feel free to fork this 
 
 ## Stay Connected 🌐
 
-- **GitHub**: [your-username](https://github.com/your-username)
-- **LinkedIn**: [Your Name](https://www.linkedin.com/in/your-profile)
-- **Email**: your-email@example.com
+- **GitHub**: [VarunSharma189](https://github.com/VarunSharma189)
+- **LinkedIn**: [Varun Sharma](https://www.linkedin.com/in/varun-sharma-7b420421a/)
+- **Email**: sharmav1890@gmail.com
 
 Happy Coding! 💻✨
