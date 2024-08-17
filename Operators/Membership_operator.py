@@ -12,4 +12,4 @@ print(var3)
 var4 = 'apple' in {'a': 'apple', 'b': 'boy', 'c': 'cat'}  
 print(var4)
 
-print("THIS PROGRAM IS WRITTEN BY BARUN SHARMA ERP :- 0221BCA136")
+print("THIS PROGRAM IS WRITTEN BY VARUN SHARMA ERP :- 0221BCA136")
