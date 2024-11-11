@@ -12,4 +12,4 @@ def squared_numbers(numbers):
 
 for square in squared_numbers(count_up_to(5)):
     print(square)  # Outputs: 1, 4, 9, 16, 25
-print("Written by Naman ERP :- 009")
+print("THIS PROGRAM IS WRITTEN BY VARUN SHARMA ERP :- 0221BCA136")
